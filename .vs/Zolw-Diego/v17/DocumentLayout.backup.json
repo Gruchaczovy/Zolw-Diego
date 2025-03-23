@@ -50,7 +50,8 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-23T19:00:00.215Z"
+              "WhenOpened": "2025-03-23T19:00:00.215Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,7 +61,7 @@
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\piote\\Documents\\GitHub\\Zolw-Diego\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2025-03-23T18:59:58.171Z",
               "EditorCaption": ""
@@ -75,7 +76,8 @@
               "RelativeToolTip": "src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-23T18:59:47.202Z"
+              "WhenOpened": "2025-03-23T18:59:47.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -87,7 +89,8 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-23T18:53:55.057Z"
+              "WhenOpened": "2025-03-23T18:53:55.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,7 +102,8 @@
               "RelativeToolTip": "vercel.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T18:53:23.582Z"
+              "WhenOpened": "2025-03-23T18:53:23.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -111,7 +115,8 @@
               "RelativeToolTip": "vite.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-23T18:49:08.03Z"
+              "WhenOpened": "2025-03-23T18:49:08.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,7 +128,8 @@
               "RelativeToolTip": "eslint.config.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-23T18:43:00.631Z"
+              "WhenOpened": "2025-03-23T18:43:00.631Z",
+              "EditorCaption": ""
             }
           ]
         }
